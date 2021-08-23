@@ -15,7 +15,7 @@ Seatbelts for [QBCore Framework](https://github.com/qbcore-framework) built to e
 # Installation
 
 ## Manual
-* Download `qb-seatbelt` and open your exisiting `[qb-smallresources]` folder, then drag and drop our `[seatbelt.lua]` inside of there.
+* Download `qb-seatbelt` and open your exisiting `[qb-smallresources]` then drag and drop our `[seatbelt.lua]` inside of the `[client]` folder.
 
 # Change Logs
 ### 0.0.1
