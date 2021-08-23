@@ -6,7 +6,7 @@ Seatbelts for [QBCore Framework](https://github.com/qbcore-framework) built to e
 
 # Our Recommendations for the full experience!
 * [eminence-hud](https://github.com/Eminence-Studios/eminence-hud) - you're definitely going to want this hud :)
-* [qb-sound](https://github.com/Eminence-Studios/qb-sound) - you're definitely going to want this, it gives you the satisying click :)
+* [qb-sound](https://github.com/Eminence-Studios/qb-sound) - you're definitely going to want this, it gives you the satisfying click :)
 
 # Features
 * Adds seatbelt and harness support
