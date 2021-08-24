@@ -1,5 +1,7 @@
 # qb-seatbelt
-Seatbelts for [QBCore Framework](https://github.com/qbcore-framework) built to enhance [Eminence Hud](https://github.com/Eminence-Studios/eminence-hud).
+Seatbelts for [QBCore Framework](https://github.com/qbcore-framework) built to enhance [Eminence Hud](https://github.com/Eminence-Studios/eminence-hud). 
+
+Handcrafted by yours truly, [GlacielGaming](https://github.com/GlacielGaming) and [whelanmjoshua](https://github.com/whelanmjoshua) for [Eminence Studios](https://github.com/Eminence-Studios). Please do not redistribute without our express permission.
 
 # Dependencies
 * [qbcore framework](https://github.com/qbcore-framework) :heart:
